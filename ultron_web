@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ULTRON Phone (1)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        header {
+            background-color: #333;
+            color: white;
+            padding: 1em;
+            text-align: center;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        section {
+            margin-bottom: 30px;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 1em;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>ULTRON Phone (1)</h1>
+        <p>Extraordinary Imaging Powers | Revolutionary Display | Enduring Powerhouse</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Extraordinary Imaging Powers</h2>
+            <p>Embark on a visual odyssey with the Ultron Phone (1) Ultra's cutting-edge 200-megapixel primary sensor...</p>
+        </section>
+
+        <section>
+            <h2>Revolutionary Display Technology</h2>
+            <p>Dive into the future of visual entertainment with the 6.9-inch Dynamic AMOLED 4X display...</p>
+        </section>
+
+        <section>
+            <h2>Enduring Powerhouse</h2>
+            <p>Fueling your adventures is the mighty 8,000mAh battery, ensuring uninterrupted usage throughout the day...</p>
+        </section>
+
+        <section>
+            <h2>Intelligent and Evolving Interface</h2>
+            <p>The Ultron Phone (1) Ultra integrates ChatGPT 4, creating a symbiotic relationship between user and AI...</p>
+        </section>
+
+        <section>
+            <h2>Sculpted for Performance</h2>
+            <p>Powered by the Snapdragon 8 Gen 4 processor and generous RAM, the Ultron Phone (1) Ultra effortlessly handles multitasking...</p>
+        </section>
+
+        <section>
+            <h2>Immersive Connectivity</h2>
+            <p>Stay ahead in the connectivity race with 5G support, ensuring rapid data speeds and low latency...</p>
+        </section>
+
+        <section>
+            <h2>Secure and Durable</h2>
+            <p>Experience peace of mind with the ultrasonic in-display fingerprint scanner and IP68 water and dust resistance...</p>
+        </section>
+
+        <section>
+            <h2>Tailored Storage Solutions</h2>
+            <p>Choose from a range of storage options, from 128GB to a colossal 2TB, with the flexibility of expandable storage...</p>
+        </section>
+
+        <section>
+            <h2>Immersive Audio and Sensory Delight</h2>
+            <p>Indulge your senses with stereo speakers that deliver rich, immersive audio...</p>
+        </section>
+
+        <section>
+            <h2>Crafted Elegance</h2>
+            <p>The Ultron Phone (1) Ultra's sleek design, metal frame, and nearly bezel-less display define sophistication...</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 ULTRON. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
